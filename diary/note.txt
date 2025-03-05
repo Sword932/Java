@@ -1,0 +1,3 @@
+index=1@title=修改@text=修改了一处文本
+index=2@title=小狗@text=你好小狗
+index=3@title=你好@text=好好好
