@@ -24,7 +24,7 @@
 <img width="441" alt="联想截图_20250305184733" src="https://github.com/user-attachments/assets/d4a22e32-9088-4a6d-aebf-39d7922d826b" />
 
 ## 🎥 视频演示
-[点击查看完整演示视频](https://www.bilibili.com/video/BV1EZ9RYcEUN/)
+[点击查看完整演示视频](https://www.bilibili.com/video/BV1Yt9RYDEa3/)
 
 ## 🛠️ 快速启动
 ```bash
